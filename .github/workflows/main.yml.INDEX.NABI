@@ -1,0 +1,40 @@
+""<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NextGen Analytics & BI (NABI)</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>NextGen Analytics & BI (NABI)</h1>
+        <p>Llevando la inteligencia de negocios al siguiente nivel</p>
+    </div>
+
+    <div class="card-container">
+        <div class="card">
+            <h2>Análisis de Datos</h2>
+            <p>Transforma datos en decisiones estratégicas con nuestras soluciones BI.</p>
+            <button onclick="window.location.href='#'">Ver Más</button>
+        </div>
+
+        <div class="card">
+            <h2>Automatización de Reportes</h2>
+            <p>Optimiza procesos y ahorra tiempo con nuestras soluciones automatizadas.</p>
+            <button onclick="window.location.href='#'">Ver Más</button>
+        </div>
+
+        <div class="card">
+            <h2>Integración SAP & SQL</h2>
+            <p>Conecta tus datos empresariales y maximiza su valor en cada decisión.</p>
+            <button onclick="window.location.href='#'">Ver Más</button>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2025 NextGen Analytics & BI (NABI). Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+""
